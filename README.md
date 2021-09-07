@@ -10,7 +10,7 @@ Znaci krajnji cilj je pozivom naredbe "java -jar projekt.jar 2 20.06.2021 5" pro
 Napomene:
 - stupci u CSV datoteci su razdvojeni sa , delimiterom
 
-- struktura cjenika se smatra fiksnom, tj. uvjek su samo 3 polja za opis plovila i imamo fiksno 4 stupca za periode cijena; 
+- struktura cjenika se smatra fiksnom, tj. uvijek su samo 3 polja za opis plovila i imamo fiksno 4 stupca za periode cijena; 
 Fiksan broj stupaca za periode cijena je samo da bi se olaksalo ucitavanje podataka iz datoteke, 
 ali objektno orijentirani model mora biti postavljen na nacin da je varijabilan broj perioda cijena.
 
