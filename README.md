@@ -8,7 +8,7 @@ ID plovila, datum polaska i trajanje najma se definiraju kao parametri prilikom 
 Znaci krajnji cilj je pozivom naredbe "java -jar projekt.jar 2 20.06.2021 5" program vraca izracun cijene najma plovila ID 2 za polazni datum 20.06.2021 u trajanju od 5 dana.
 
 Napomene:
-- stupci u CSV datoteci su razdvojeni sa ; delimiterom
+- stupci u CSV datoteci su razdvojeni sa , delimiterom
 
 - struktura cjenika se smatra fiksnom, tj. uvjek su samo 3 polja za opis plovila i imamo fiksno 4 stupca za periode cijena; 
 Fiksan broj stupaca za periode cijena je samo da bi se olaksalo ucitavanje podataka iz datoteke, 
