@@ -1,6 +1,6 @@
 OPIS ZADATKA:
 
-Temeljem prilozene CSV datoteke napraviti prigodni objektno orijentirani model u kojem ce se pohraniti vrijednosti ucitane iz navedene datoteke.
+Temeljem prilozene CSV datoteke( u Source paketu) napraviti prigodni objektno orijentirani model u kojem ce se pohraniti vrijednosti ucitane iz navedene datoteke.
 U prilozenom CSV cjeniku definirani su podaci o plovilu (ID, Naziv, Godiste), kao i pripadajuce TJEDNE cijene za pojedine periode u godini.
 Nakon sto je cjenik ucitan, izracunati cijenu najma za definirani ID plovila, datum polaska te trajanje najma. 
 ID plovila, datum polaska i trajanje najma se definiraju kao parametri prilikom poziva aplikacije.
