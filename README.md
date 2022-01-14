@@ -5,8 +5,6 @@ U prilozenom CSV cjeniku definirani su podaci o plovilu (ID, Naziv, Godiste), ka
 Nakon sto je cjenik ucitan, izracunati cijenu najma za definirani ID plovila, datum polaska te trajanje najma. 
 ID plovila, datum polaska i trajanje najma se definiraju kao parametri prilikom poziva aplikacije.
 
-Znaci krajnji cilj je pozivom naredbe "java -jar projekt.jar 2 20.06.2021 5" program vraca izracun cijene najma plovila ID 2 za polazni datum 20.06.2021 u trajanju od 5 dana.
-
 Napomene:
 - stupci u CSV datoteci su razdvojeni sa , delimiterom
 
